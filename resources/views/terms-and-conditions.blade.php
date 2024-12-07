@@ -139,7 +139,7 @@
                 <li>Returns are only accepted for defective or damaged products.</li>
                 <li>Refunds will be issued for the returned items, or replacements will be provided, per our Return Policy.</li>
             </ul>
-            <p>By placing an order with Janletic Sports, you agree to abide by these terms and conditions.</p>
+            <p>By placing an order with Ethletia Sports, you agree to abide by these terms and conditions.</p>
             <p>Please do not hesitate to email us at <a href="mailto:sales@ethletia.com">sales@ethletia.com</a> if you have any questions or require further clarification regarding our payment terms.</p>
         </div>
     </div>

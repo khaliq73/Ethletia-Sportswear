@@ -132,7 +132,7 @@ padding: 10px;
         <i class="bi bi-envelope-fill fs-2 me-3" style="color: #2DCCEC;"></i>
         <div>
           <strong class="d-block">EMAIL ADDRESS</strong>
-          <span>contact@janleticsports.com</span>
+          <span>sales@ethletia.com</span>
         </div>
       </div>
 
@@ -140,7 +140,7 @@ padding: 10px;
         <i class="bi bi-whatsapp fs-2 me-3" style="color: #2DCCEC;"></i>
         <div>
           <strong class="d-block">WHATSAPP</strong>
-          <span>+92 303 555 3949</span>
+          <span>+92 3008119361</span>
         </div>
       </div>
 
@@ -148,7 +148,7 @@ padding: 10px;
         <i class="bi bi-geo-alt-fill fs-2 me-3" style="color: #2DCCEC;"></i>
         <div>
           <strong class="d-block">LOCATION</strong>
-          <span>Adda Stop, 4.5 KM Main Daska Road, Sialkot - 51310, Punjab, Pakistan.</span>
+          <span>Defence road Al-Hadi Town Ali street, 51310 Sialkot.</span>
         </div>
       </div>
     </div>
